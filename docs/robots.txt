@@ -1,0 +1,8 @@
+# BlackRoad RSS Aggregator — robots.txt
+# BlackRoad OS, Inc. (not affiliated with BlackRock, Inc.)
+# https://blackroad-media.github.io/blackroad-rss-aggregator/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://blackroad-media.github.io/blackroad-rss-aggregator/sitemap.xml
