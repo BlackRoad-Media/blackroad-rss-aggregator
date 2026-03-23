@@ -1,3 +1,11 @@
+# blackroad-rss-aggregator
+
+> RSS/Atom feed aggregator with content deduplication
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Media](https://github.com/BlackRoad-Media)
+
+---
+
 # BlackRoad RSS Aggregator
 
 RSS/Atom feed aggregator with content deduplication.
